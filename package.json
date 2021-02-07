@@ -1,0 +1,17 @@
+{
+  "name": "@kravc/identity-encrypt",
+  "version": "0.1.0",
+  "description": "Encryption utility for @kravc/identity.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Kravets <a@kra.vc>",
+  "license": "ISC",
+  "dependencies": {
+    "eccrypto-js": "^5.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0"
+  }
+}
